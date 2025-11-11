@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.lang {
+    text-align: right;
+    margin-right: 25px;
+}
+
+.text {
+    margin-bottom: 5px;
+}
+
+.shakshuka {
+    padding: 5px;
+        border-bottom: 1px solid lightcoral;
+
+}
+
+.caesar {
+    padding: 5px;
+        border-bottom: 1px solid lightcoral;
+
+}
+
+.carbonara {
+    padding: 5px;
+}
